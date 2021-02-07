@@ -1,1 +1,2 @@
-# kropp.photo
+# kropp
+Kropp Studio
